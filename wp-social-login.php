@@ -9,6 +9,7 @@ Author URI: https://github.com/miled
 License: MIT License
 Text Domain: wordpress-social-login
 Domain Path: /languages
+GitHub Plugin URI: https://github.com/Di-Pol/wordpress-social-login
 */
 
 /*
